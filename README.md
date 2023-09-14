@@ -1,0 +1,2 @@
+A strawberry detection and counting system based on convolutional neural networks. A Faster-RCNN model is trained on a custom dataset using the MMDetection toolbox. The model also
+classifies the ripeness of the strawberries.
